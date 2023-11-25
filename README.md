@@ -1,5 +1,5 @@
 # SQL
-This repository contains my SQL projects.
+This repository contains my SQL projects. <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="25px">
 
 ## <span style="blue">[S. Restaurant](https://github.com/adiredri/SQL/tree/main/S.%20Restaurant "S. Restaurant")</span>
 
