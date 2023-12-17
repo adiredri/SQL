@@ -1,4 +1,4 @@
-# SQL <a href="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" target="_blank"> <img src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" width="45px" height="45px"/></a>
+# SQL <a href="https://www.tutorialsteacher.com/Content/images/home/sql.png" target="_blank"> <img src="https://www.tutorialsteacher.com/Content/images/home/sql.png" width="30px" width="30px"/></a>
 This repository contains my SQL projects. 
 
 ### Learning Topics
