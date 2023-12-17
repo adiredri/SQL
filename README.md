@@ -1,4 +1,4 @@
-# SQL <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="60px" width="60px">
+# SQL <a href="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" target="_blank"> <img src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" width="45px" height="45px"/></a>
 This repository contains my SQL projects. 
 
 ### Learning Topics
