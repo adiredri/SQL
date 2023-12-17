@@ -1,4 +1,4 @@
-# SQL <a href="https://www.tutorialsteacher.com/Content/images/home/sql.png" target="_blank"> <img src="https://www.tutorialsteacher.com/Content/images/home/sql.png" width="30px" width="30px"/></a>
+# SQL <a href="https://www.tutorialsteacher.com/Content/images/home/sql.png" target="_blank"> <img src="https://www.tutorialsteacher.com/Content/images/home/sql.png" width="35px" width="35px"/></a>
 This repository contains my SQL projects. 
 
 ### Learning Topics
