@@ -1,4 +1,4 @@
-# SQL <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="60px">
+# SQL <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="60px" width="60px">
 This repository contains my SQL projects. 
 
 ### Learning Topics
